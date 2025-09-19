@@ -19,7 +19,8 @@ Devops, BSCS-7 semester
 
   docker ps // to run container
 
-push and tag to docker hub
+# push and tag to docker hub
+
 docker tag imgg:latest hajiraimran/first:latest
 
 docker push hajiraimran/first:latest
